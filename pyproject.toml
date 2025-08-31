@@ -10,5 +10,7 @@ dependencies = [
     "matplotlib>=3.9.4",
     "notebook>=7.4.5",
     "numpy>=2.0.2",
+    "pandas>=2.3.2",
+    "plotly>=6.3.0",
     "seaborn>=0.13.2",
 ]
